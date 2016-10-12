@@ -1,0 +1,26 @@
+body {
+  margin: 40px;
+  text-align: justify;
+}
+h1 {
+  text-align: center;
+}
+.intro {
+  width: 60%;
+  margin-left: 10%;
+}
+
+h2.intro {
+  text-decoration: underline;
+}
+
+p.intro {
+  font-style: italic;
+}
+
+img.intro {
+  width: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
