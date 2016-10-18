@@ -16,6 +16,9 @@ h2.intro {
   border-style: none;
 }
 
+p {
+  padding: 15px;
+}
 p.intro {
   font-style: italic;
   border-style: none;
@@ -27,4 +30,14 @@ img.intro {
   margin-right: auto;
   display: block;
   border-style: none;
+}
+
+.clickable:hover {
+  color: blue;
+}
+
+.selected{
+  border: solid;
+  border-radius: 5px;
+  background-color: #FFFF00;
 }
